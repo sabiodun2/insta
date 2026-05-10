@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../Instagram/images/WhatsAppLM1.jpg");
+    background-image: url("images/WhatsAppLM1.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
